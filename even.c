@@ -12,7 +12,7 @@ void main()
 }
 else
 {
-  printf("the number is even";)
+  printf("the number is odd";)
 }
 getch();
 }

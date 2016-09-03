@@ -17,6 +17,7 @@ void main()
         big=c;
       }
     }
+    printf("the largest no is:%d,big");
     getch();
   }
 
